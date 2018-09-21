@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class Crossword : MonoBehaviour
 {
-    public Grid box;
     //passsing in null for now
     //CrosswordCell [,] data
     public void CreateCrossword()
